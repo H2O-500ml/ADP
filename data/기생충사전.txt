@@ -1,0 +1,17 @@
+기생충	NNP
+봉준호	NNP
+송강호	NNP
+기택	NNP
+이선균	NNP
+박사장	NNP
+조여정	NNP
+연교	NNP
+최우식	NNP
+기우	NNP
+박소담	NNP
+기정	NNP
+장혜진	NNP
+충숙	NNP
+이정은	NNP
+이지혜	NNP
+박서준	NNP
